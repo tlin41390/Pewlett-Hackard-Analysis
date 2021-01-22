@@ -20,5 +20,8 @@
       * Based on the different promotions there are several workers that were promoted once or more. These workers would 
         work for Hewlett Packard for a decade or longer, finally becoming senior staff or engineers.
 ### Summary
-    After the silver tsunami, there would need to be 90,397 staff that will be needed to replace the aging workers that 
+    After the silver tsunami, there would need to be 90,399 staff that will be needed to replace the aging workers that 
     will retire after working for the company for years.
+    
+    
+    In regards to the 
