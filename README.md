@@ -22,6 +22,6 @@
 ### Summary
     After the silver tsunami, there would need to be 90,399 staff that will be needed to replace the aging workers that 
     will retire after working for the company for years.
-    
+   ![workers retiring](https://github.com/tlin41390/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql/WorkersRetiring.png)
     
     In regards to the 
