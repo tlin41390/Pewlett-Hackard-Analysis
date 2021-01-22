@@ -24,4 +24,7 @@
     will retire after working for the company for years.
    ![workers retiring](https://github.com/tlin41390/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql/WorkersRetiring.png)
     
-    In regards to the 
+    In regards to the retired workers eligible for mentoring and the employees that are still working at Pewlett Hackard, or upcoming workers
+    in the future, there may not be enough mentors for the current workers. This is because there are only about 1491 workers eligible for mentoring
+    over the employees that are still at Hewlett Packard which is 209,626(subtracting from workers that are retiring). Unless the mentors are more than 
+    willing to take an absurd amout of workers and be mentors for them, there might not be enough mentors for Pewlett Hackard.
